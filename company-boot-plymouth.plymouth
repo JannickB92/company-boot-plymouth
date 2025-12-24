@@ -5,4 +5,4 @@ ModuleName=script
 
 [script]
 ImageDir=/usr/share/plymouth/themes/company-boot-plymouth
-ScriptFile=/usr/share/plymouth/themes/company-boot-plymouth.script
+ScriptFile=/usr/share/plymouth/themes/company-boot-plymouth/company-boot-plymouth.script
