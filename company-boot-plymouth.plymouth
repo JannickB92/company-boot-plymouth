@@ -1,8 +1,8 @@
 [Plymouth Theme]
-Name=apple-mac-plymouth
-Description=Apple Mac Plymouth theme by - Nilotpal Biswas J
+Name=company-boot-plymouth
+Description=Company Boot Plymouth theme by - Jannick Breunis
 ModuleName=script
 
 [script]
-ImageDir=/usr/share/plymouth/themes/apple-mac-plymouth
-ScriptFile=/usr/share/plymouth/themes/apple-mac-plymouth/apple-mac-plymouth.script
+ImageDir=/usr/share/plymouth/themes/company-boot-plymouth
+ScriptFile=/usr/share/plymouth/themes/company-boot-plymouth/company-boot-plymouth.script
